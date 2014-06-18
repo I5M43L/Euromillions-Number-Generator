@@ -29,9 +29,9 @@
 		}
 ?>
 
-<!-- <p><input type="button" value="click to generate your numbers" onClick="window.location='euromillions.php' "></p> -->
+
 <p><button type="button"  class="css3button" onClick="window.location='euromillions.php' ">click to generate your numbers</button></p>
-<!-- <button type="button"  class="button" onClick="window.location='euromillions.php' ">click to generate your numbers</button> -->
+
 </body>
 
 </html>
